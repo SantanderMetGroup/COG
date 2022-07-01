@@ -1,1 +1,0 @@
-from config_project_search import SearchConfigParser

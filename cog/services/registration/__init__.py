@@ -1,2 +1,0 @@
-from registration import RegistrationService
-from registration_impl import ESGFRegistrationServiceImpl, esgfRegistrationServiceImpl
